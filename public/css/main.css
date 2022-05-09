@@ -1,0 +1,50 @@
+@import url(nav.css);
+@import url(footer.css);
+@import url(winners.css);
+@import url(login.css);
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-image: url(../img/maradona.jpeg);
+   /** background-color: #8A1538; **/
+}
+
+.mainSection{
+    padding: 10px;
+    margin: 0 auto;
+    width: 850px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.315);
+}
+
+.mainSectionWinners{
+    opacity: 90%;
+    height: 1205px;
+}
+
+.song{
+    width: 1px;
+    border-radius: 10px;
+}
+
+.song:hover{
+    background-color: #ffe186;
+}
+
+.positionsMatches{
+    display: flex;
+    display: none;
+}
+
+.positions{
+    padding: 10px;
+    width: 50%;
+}
+
+.matches{
+    padding: 10px;
+    width: 50%;
+}

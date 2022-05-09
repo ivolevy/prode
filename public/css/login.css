@@ -1,0 +1,86 @@
+.register{
+    display: flex;
+    height: 100%;
+}
+
+.registerLeft{
+    width: 50%;
+}
+
+.registerRigth{
+    background-color: rgba(255, 255, 255, 0.678);
+    width: 50%;
+}
+
+.logoRegister{
+    text-align: center;
+}
+
+.worldCupRegisterLogo{
+    width: 50%;
+    height: 70%;
+    margin-top: 18%;
+}
+
+.registerTitle{
+    margin-top: 10px;
+    color: #000000;
+    text-transform: capitalize;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.formRegister{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.email{
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+.acountText{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: -1px;
+}
+
+.button1{
+    padding: 7px;
+    background-color: transparent;
+    border: 1px solid black;
+    font-size: 14px;
+    width: 80px;
+}
+
+.button1:hover{
+    background-color: black;
+    color: rgb(255, 252, 235);
+    border: 1px solid white;
+    transition: all 0.3s;
+}
+
+.button2{
+    padding: 7px;
+    background-color: transparent;
+    border: 1px solid black;
+    font-size: 14px;
+    width: 100px;
+}
+
+.button2:hover{
+    background-color: black;
+    color: rgb(255, 252, 235);
+    border: 1px solid white;
+    transition: all 0.3s;
+}
+
+.alreadyAccount{
+    margin-top: 20px;
+}

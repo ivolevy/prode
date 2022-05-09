@@ -1,0 +1,18 @@
+VISTAS DE LA PAGINA:
+
+    -para no logueado:
+        -inicio, con registro solamente
+        -opcional de clasificados, reglas, etc.
+    -para logueado:
+        -inicio
+        -mi perfil
+        -fixture
+        -clasificados
+        -reglas y premios
+        -formulario de partidos
+
+
+.....................
+-wallpaper de futbol
+-margin a los costados
+-dentro del margin el main
